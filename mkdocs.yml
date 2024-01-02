@@ -7,20 +7,20 @@ site_description: >-
 copyright: Andromeda Team © 2023
 nav:
     - Главная: index.md
-    - Введение: introduction.md
-    - Терминология: terminology.md
-    - Общие положения: general.md
-    - Правила игры на сервере: server_rules.md
-    - Правила РП-смерти: rp_death.md
-    - Правила использования КПК: pda_rules.md
-    - Правила гоп-стопа и задержания: gop_stop_rules.md
-    - Правила маскировки: disguise_rules.md
-    - Правила територий: territories.md
-    - Правила баров и баз группировок: bars_and_bases.md
-    - Война группировок: gang_wars.md
-    - Правила штурма: siege_rules.md
-    - Группировки:
+    - Раздел 1. Введение: introduction.md
+    - Раздел 2. Терминология: terminology.md
+    - Раздел 3. Общие положения: general.md
+    - Раздел 4. Правила игры на сервере: server_rules.md
+    - Раздел 5. Правила територий: territories.md
+    - Раздел 6. Правила баров и баз группировок: bars_and_bases.md
+    - Раздел 7. Правила РП-смерти: rp_death.md
+    - Раздел 8. Правила гоп-стопа и задержания: gop_stop_rules.md
+    - Раздел 9. Правила маскировки: disguise_rules.md
+    - Раздел 10. Правила использования КПК: pda_rules.md
+    - Раздел 11. Группировки:
         - gang_rules/index.md
+        - Правила войны группировок: gang_rules/gang_wars.md
+        - Правила штурма: gang_rules/siege_rules.md
         - Нейтралы: gang_rules/neutrals.md
         - Бандиты: gang_rules/bandits.md
         - ОКСОП: gang_rules/oksop.md
