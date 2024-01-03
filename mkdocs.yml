@@ -21,12 +21,8 @@ nav:
         - gang_rules/index.md
         - Правила войны группировок: gang_rules/gang_wars.md
         - Правила штурма: gang_rules/siege_rules.md
-        - Нейтралы: gang_rules/neutrals.md
-        - Бандиты: gang_rules/bandits.md
         - ОКСОП: gang_rules/oksop.md
         - Учёные: gang_rules/scientists.md
-        - Долг: gang_rules/duty.md
-        - Свобода: gang_rules/freedom.md
         - Наёмники: gang_rules/mercenaries.md
         - Монолит: gang_rules/monolith.md
 theme: 
