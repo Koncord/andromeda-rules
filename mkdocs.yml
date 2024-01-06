@@ -18,7 +18,7 @@ nav:
     - 9. Правила маскировки: disguise_rules.md
     - 10. Правила использования КПК: pda_rules.md
     - 11. Группировки:
-        - gang_rules/index.md
+        - Правила группировок: gang_rules/index.md
         - Правила войны группировок: gang_rules/gang_wars.md
         - Правила штурма: gang_rules/siege_rules.md
         - ОКСОП: gang_rules/oksop.md
