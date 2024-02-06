@@ -13,15 +13,15 @@ nav:
     - 4. Правила игры на сервере: server_rules.md
     - 5. Правила територий: territories.md
     - 6. Правила баров и баз группировок: bars_and_bases.md
-    - 7. Правила РП-смерти: rp_death.md
+    - 7. Правила тяжёлого ранения и РП-смерти: rp_death.md
     - 8. Правила гоп-стопа и задержания: gop_stop_rules.md
-    - 9. Правила идентификации и маскировки: disguise_rules.md
+    - 9. Правила идентификации, допроса и маскировки: disguise_rules.md
     - 10. Правила использования КПК: pda_rules.md
     - 11. Группировки:
         - Правила группировок: gang_rules/index.md
         - Правила войны группировок: gang_rules/gang_wars.md
         - Правила штурма и проникновения: gang_rules/siege_rules.md
-        - ОКСОП: gang_rules/oksop.md
+        - МСОП: gang_rules/oksop.md
         - Учёные: gang_rules/scientists.md
         - Наёмники: gang_rules/mercenaries.md
         - Монолит: gang_rules/monolith.md
